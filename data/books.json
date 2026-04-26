@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "titulo": "El Hilo Mágico",
+    "genero": "Astrología",
+    "anio": 1998
+  },
+  {
+    "id": "2",
+    "titulo": "Barreras y Límites",
+    "genero": "Astrología",
+    "anio": 2006
+  },
+  {
+    "id": "3",
+    "titulo": "Inteligencia Planetaria",
+    "genero": "Astrología",
+    "anio": 2014
+  },
+  {
+    "id": "1cf0694e-0dec-4cbd-a38b-d3c211b9311c",
+    "title": "Manual de Psicomagia",
+    "gender": "Esoterísmo",
+    "year": 2009
+  },
+  {
+    "id": "2b7b2cb3-3147-4479-b486-084114932448",
+    "title": "3",
+    "gender": "3",
+    "year": 2
+  }
+]
